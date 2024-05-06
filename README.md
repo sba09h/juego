@@ -1,7 +1,7 @@
 # juego piedra pepel o tijera
 
-- abrir VSC y navegador web o browser instalado en pc
+1- Abrir VSC y navegador web o browser instalado en pc
   
-- clonar codigo Hub desde Github
-- 
-- ejecutar
+2- Clonar codigo Hub desde Github
+  
+3- Ejecutar código
