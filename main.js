@@ -29,7 +29,6 @@ const jugar = () => {
             const opcionComputadora = azarComputadora();
             const resultado = determinarGanador(opcionUsuario, opcionComputadora);
             alert("La computadora eligió: " + opcionComputadora + "\n" + resultado);
-            clear
         } else {
             alert("Opción inválida. Por favor, elige piedra, papel o tijera.");
         }
